@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to 宝宝的个人主页
 
-You can use the [editor on GitHub](https://github.com/yaoyaobaby/yaoyaobaby.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 老师又作教师、师长、导师等，是一种职业，古已有之，指传授学生知识的人员，有各种教育类型（如语文、数学等），班主任也为老师之一；也泛指在某方面值得学习和能够给大家带来一定正确知识和指导，有能力的人。相关节日是“教师节”。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 在古代旧时，老师多称为：“师傅、夫子、教书先生、讲郎等等”。和老师相似的职业有讲师、教练、教授、教员、博士等。
+2016年，我国各级各类学校专任教师数为1578.2万人，其中，普通小学专任教师为578.9万人，初中阶段专任教师为348.8万人，全国幼儿园专任教师数为223.2万人，全国特殊教育专任教师数为5.3万人，全国普通高中专任教师173.3万人，全国中等职业学校专任教师为84.0万人，全国普通高等学校专任教师160.2万人
 
-### Markdown
+## 老师最美
+![https://wx4.sinaimg.cn/mw690/e92df9d8gy1g6ua3xc4j5j20u00zgqll.jpg](https://wx4.sinaimg.cn/mw690/e92df9d8gy1g6ua3xc4j5j20u00zgqll.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+love
+you 
+more
+than
+i 
+can 
+say
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaoyaobaby/yaoyaobaby.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 未完待续
+<hr>
+💛 💙 💜 ❤️ 💚 💔 💓 
+<hr>
+- # 你宝宝的个人网站      [https://simplerandom.github.io/](https://simplerandom.github.io/)
+- ## 爱宝宝哟！
+💛 💙 💜 ❤️ 💚 💔 💓 
