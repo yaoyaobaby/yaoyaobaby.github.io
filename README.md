@@ -26,6 +26,5 @@ say
 
 <hr>
 
-- # 你宝宝的个人网站
-- ## [https://simplerandom.github.io/](https://simplerandom.github.io/)
-- ## 爱你哟！
+- # 你宝宝的个人网站      [https://simplerandom.github.io/](https://simplerandom.github.io/)
+- ## 宝宝哟！
