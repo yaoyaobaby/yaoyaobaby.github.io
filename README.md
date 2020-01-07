@@ -23,3 +23,8 @@ say
 ### 未完待续
 
 <hr>
+-     
+-   
+- # 你宝宝的个人网站
+## [https://simplerandom.github.io/](https://simplerandom.github.io/)
+## 爱你哟！
